@@ -1,0 +1,7 @@
+I used this to help with the cone detection
+http://stackoverflow.com/questions/839899/how-do-i-calculate-a-point-on-a-circle-s-circumference
+
+https://en.wikipedia.org/wiki/Pythagorean_theorem
+
+I used this to fix the anchoring issue that I was having:
+https://answers.unrealengine.com/questions/252038/47-umg-get-position-on-widget.html
