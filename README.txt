@@ -1,5 +1,7 @@
 War of the Rebellion App
 
+NOTE: This project is deprecated.
+
 This project was made as a research project for young history students while studying at Baylor University.
 
 Used this video series for Drag and Drop UMG Help: 
